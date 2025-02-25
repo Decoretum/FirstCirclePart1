@@ -1,0 +1,11 @@
+type,difficulty,category,question,correct_answer,incorrect_answers
+multiple,hard,Science: Computers,"According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:",A&#039; + B&#039;,"[""A&#039;B + B&#039;A"",""A&#039;B&#039;"",""AB&#039; + AB""]"
+multiple,medium,History,"John Moses Browning, the designer of the M1918 BAR (Browning Automatic Rifle) was a part of which religion?",Mormon,"[""Catholic"",""Jewish"",""Atheist""]"
+multiple,medium,Entertainment: Video Games,In which year did the first Monster Hunter game get released?,2004,"[""2006"",""2005"",""2002""]"
+multiple,easy,Entertainment: Music,What collaborative album was released by Kanye West and Jay-Z in 2011?,Watch the Throne,"[""Distant Relatives"",""What a Time to be Alive"",""Unfinished Business""]"
+multiple,medium,Geography,What is the capital of Australia?,Canberra,"[""Sydney"",""Melbourne"",""Brisbane""]"
+multiple,easy,Science: Computers,What is the code name for the mobile operating system Android 7.0?,Nougat,"[""Ice Cream Sandwich"",""Jelly Bean"",""Marshmallow""]"
+multiple,hard,Geography,What is the largest city and commercial capital of Sri Lanka?,Colombo,"[""Moratuwa"",""Negombo"",""Kandy""]"
+multiple,medium,Mythology,"According to Japanese folklore, what is the favorite food of the Kappa.",Cucumbers,"[""Kabocha"",""Nasu"",""Soba""]"
+multiple,hard,Geography,"In which city, is the Big Nickel located in Canada?","Sudbury, Ontario","[""Calgary, Alberta"",""Halifax, Nova Scotia "",""Victoria, British Columbia""]"
+boolean,hard,Science &amp; Nature,The chemical element Lithium is named after the country of Lithuania.,False,"[""True""]"

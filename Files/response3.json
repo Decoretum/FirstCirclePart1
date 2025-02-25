@@ -1,0 +1,167 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which of the following is not an Ivy League University?",
+      "correct_answer": "Stanford",
+      "incorrect_answers": [
+        "University of Pennsylvania",
+        "Harvard",
+        "Princeton"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Who created the indie adventure game &quot;Night in the Woods&quot;?",
+      "correct_answer": "Alec Holowka",
+      "incorrect_answers": [
+        "Ron Gilbert",
+        "Tim Schafer",
+        " Tommy Refenes"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "In the 1999 movie Fight Club, which of these is not a rule of the &quot;fight club&quot;?",
+      "correct_answer": "Always wear a shirt",
+      "incorrect_answers": [
+        "You do not talk about FIGHT CLUB",
+        "Only two guys to a fight",
+        "Fights will go on as long as they have to"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "John Moses Browning, the designer of the M1918 BAR (Browning Automatic Rifle) was a part of which religion?",
+      "correct_answer": "Mormon",
+      "incorrect_answers": [
+        "Catholic",
+        "Jewish",
+        "Atheist"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "What year was hockey legend Wayne Gretzky born?",
+      "correct_answer": "1961",
+      "incorrect_answers": [
+        "1965",
+        "1959",
+        "1963"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Celebrities",
+      "question": "Marilyn Monroe was born on July 1, 1926.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "How many aces can be shot down through the entirety of &quot;Ace Combat Zero: The Belkan War&quot;?",
+      "correct_answer": "169",
+      "incorrect_answers": [
+        "100",
+        "132",
+        "245"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Mathematics",
+      "question": "The decimal number 31 in hexadecimal would be what?",
+      "correct_answer": "1F",
+      "incorrect_answers": [
+        "3D",
+        "2E",
+        "1B"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Several characters in &quot;Super Mario 64&quot; blink their eyes, including Mario himself.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "Kublai Khan is the grandchild of Genghis Khan?",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Who created the &quot;Metal Gear&quot; Series?",
+      "correct_answer": "Hideo Kojima",
+      "incorrect_answers": [
+        "Hiroshi Yamauchi",
+        "Shigeru Miyamoto",
+        "Gunpei Yokoi"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Which Mario spin-off game did Waluigi make his debut?",
+      "correct_answer": "Mario Tennis",
+      "incorrect_answers": [
+        "Mario Party 3",
+        "Mario Kart: Double Dash!!",
+        "Mario Golf: Toadstool Tour"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "Which of these animals belongs in class Chondrichthyes?",
+      "correct_answer": "Great white shark",
+      "incorrect_answers": [
+        "Octopus",
+        "Killer whale",
+        "Catfish"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "How many playable characters were there in Street Fighter II: Champion Edition?",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "16",
+        "8",
+        "17"
+      ]
+    }
+  ]
+}

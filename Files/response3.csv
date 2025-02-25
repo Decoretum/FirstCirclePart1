@@ -1,0 +1,9 @@
+type,difficulty,category,question,correct_answer,incorrect_answers
+boolean,easy,Entertainment: Video Games,In Kingdom Hearts the Paopu fruit is said to intertwine the destinies for two people forever.,True,"[""False""]"
+multiple,hard,Entertainment: Television,Which race enjoys a glass of warm baghol in &quot;Star Trek&quot;?,Klingon,"[""Vulcan"",""Human"",""Botha""]"
+multiple,hard,History,The son of which pope supposedly held a lecherous f&ecirc;te involving 50 courtesans in the papal palace?,Alexander VI,"[""Innocent V"",""Urban II"",""Pius III""]"
+multiple,easy,Entertainment: Music,How many strings are there on a cello?,4,"[""5"",""6"",""8""]"
+multiple,easy,Science: Computers,What is the domain name for the country Tuvalu?,.tv,"["".tu"","".tt"","".tl""]"
+multiple,medium,Science: Computers,Laserjet and inkjet printers are both examples of what type of printer?,Non-impact printer,"[""Impact printer"",""Daisywheel printer"",""Dot matrix printer""]"
+multiple,medium,Entertainment: Video Games,How much does the &#039;AWP&#039; cost in Counter-Strike: Global Offensive?,$4750,"[""$4500"",""$4650"",""$5000""]"
+multiple,easy,Entertainment: Japanese Anime &amp; Manga,"In &quot;The Melancholy of Haruhi Suzumiya&quot; series, the SOS Brigade club leader is unknowingly treated as a(n) __ by her peers.",God,"[""Alien"",""Time Traveler"",""Esper""]"

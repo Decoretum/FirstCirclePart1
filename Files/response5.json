@@ -1,0 +1,121 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "The starting pistol of the Terrorist team in a competitive match of Counter Strike: Global Offensive is what?",
+      "correct_answer": "Glock-18",
+      "incorrect_answers": [
+        "Tec-9",
+        "Desert Eagle",
+        "Dual Berretas"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "The two main characters of &quot;No Game No Life&quot;, Sora and Shiro, together go by what name?",
+      "correct_answer": "Blank",
+      "incorrect_answers": [
+        "Immanity",
+        "Disboard",
+        "Warbeasts"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?",
+      "correct_answer": "Sarpadia",
+      "incorrect_answers": [
+        "Otaria",
+        "Terisiare",
+        "Shiv"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "The Hippogriff, not to be confused with the Griffon, is a magical creature with the front half of an eagle, and the back half of what?",
+      "correct_answer": "A Horse",
+      "incorrect_answers": [
+        "A Dragon",
+        "A Tiger",
+        "A Lion"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In Resident Evil 4, the Chicago Typewriter has infinite ammo.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "The first IBM PC was released in 1981.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "Into which basin does the Jordan River flow into?",
+      "correct_answer": "Dead Sea",
+      "incorrect_answers": [
+        "Aral Sea",
+        "Caspian Sea",
+        "Salton Sea"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "Who was the first American Vampire (Scott Snyder&#039;s American Vampire)?",
+      "correct_answer": "Skinner Sweet",
+      "incorrect_answers": [
+        "Hattie Hargrove",
+        "Pearl Jones",
+        "James &quot;Jim&quot; Book"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "What was the nickname of the original model for Half-Life&#039;s protagonist Gordon Freeman?",
+      "correct_answer": "Ivan the Space Biker",
+      "incorrect_answers": [
+        "Gordon the Space Biker",
+        "Ivan the Alien Biker",
+        "Gordon the Alien Biker"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In the ADV (English) Dub of the anime &quot;Ghost Stories&quot;, which character is portrayed as a Pentacostal Christian?",
+      "correct_answer": "Momoko Koigakubo",
+      "incorrect_answers": [
+        "Hajime Aoyama",
+        "Satsuki Miyanoshita",
+        "Mio Itai"
+      ]
+    }
+  ]
+}

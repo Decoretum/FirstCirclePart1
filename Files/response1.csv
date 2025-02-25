@@ -1,0 +1,6 @@
+type,difficulty,category,question,correct_answer,incorrect_answers
+multiple,easy,History,Which one of these countries was NOT in the Central Powers during WWI?,Spain,"[""Austria-Hungary"",""Turkey"",""Germany""]"
+multiple,easy,Entertainment: Video Games,Which of the following is NOT a summon in the game &quot;South Park: The Stick of Truth&quot;?,Towelie,"[""Jesus"",""Mr. Hankey"",""Mr. Slave""]"
+multiple,easy,History,Which of the following was Brazil was a former colony under?,Portugal,"[""Spain"",""The Netherlands"",""France""]"
+multiple,medium,General Knowledge,Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?,Niagara Mohawk Building,"[""Taipei 101"",""One Detroit Center"",""Westendstrasse 1""]"
+multiple,medium,Entertainment: Video Games,Who was the mascot of SEGA before &quot;Sonic the Hedgehog&quot;?,Alex Kidd,"[""Opa Opa"",""NiGHTS"",""Ristar""]"

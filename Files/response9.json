@@ -1,0 +1,193 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "What is the name of the protagonist&#039;s first Persona in &quot;Persona 5&quot;?",
+      "correct_answer": "Arsene",
+      "incorrect_answers": [
+        "Mara",
+        "Izanagi",
+        "Sandaphlon"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "What was Raekwon the Chefs debut solo album?",
+      "correct_answer": "Only Built 4 Cuban Linx",
+      "incorrect_answers": [
+        "Shaolin vs Wu-Tang",
+        "The Wild",
+        "The Lex Diamond Story"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "In what year was McDonald&#039;s founded?",
+      "correct_answer": "1955",
+      "incorrect_answers": [
+        "1964",
+        "1951",
+        "1947"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+      "correct_answer": "Athena",
+      "incorrect_answers": [
+        "Ares",
+        "Artemis",
+        "Apollo"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In &quot;Overwatch&quot;, which hero is able to wallride?",
+      "correct_answer": "Lucio",
+      "incorrect_answers": [
+        "Reinhardt",
+        "Sombra",
+        "Mercy"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "What was the name of the hero in the 80s animated video game &#039;Dragon&#039;s Lair&#039;?",
+      "correct_answer": "Dirk the Daring",
+      "incorrect_answers": [
+        "Arthur",
+        "Sir Toby Belch",
+        "Guy of Gisbourne"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "On average, at least 1 person is killed by a drunk driver in the United States every hour.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "How many total monsters appear in Monster Hunter Generations?",
+      "correct_answer": "105",
+      "incorrect_answers": [
+        "100",
+        "98",
+        "73"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "What is the title of The Allman Brothers Band instrumental used as the theme to the BBC motoring show, &#039;Top Gear&#039;?",
+      "correct_answer": "Jessica",
+      "incorrect_answers": [
+        "Angela",
+        "Erica",
+        "Sandra"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "Which is not a playable character in the 2005 video game Killer7?",
+      "correct_answer": "Frank Smith",
+      "incorrect_answers": [
+        "Mask de Smith",
+        "Dan Smith",
+        "Coyote Smith"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "What otherworldly land does Thor come from?",
+      "correct_answer": "Asgard",
+      "incorrect_answers": [
+        "Midgard",
+        "Jotunheim",
+        "Sovengarde"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "In &quot;Mean Girls&quot;, who has breasts that tell when it&#039;s raining?",
+      "correct_answer": "Karen Smith",
+      "incorrect_answers": [
+        "Gretchen Weiners",
+        "Janice Ian",
+        "Cady Heron"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "What was the game &quot;Galaga&quot; was a sequel to?",
+      "correct_answer": "Galaxian",
+      "incorrect_answers": [
+        "Galactica",
+        "Space Invaders",
+        "Galactic Wars"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "What was Maggie Simpson&#039;s first canonical word, not including the Tracey Ullman shorts?",
+      "correct_answer": "Daddy.",
+      "incorrect_answers": [
+        "Sequel?",
+        "Ja!",
+        "Rusty!"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Animals",
+      "question": "In 2016, the IUCN reclassified the status of Giant Pandas from endangered to vulnerable.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "The human heart has how many chambers?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "2",
+        "6",
+        "3"
+      ]
+    }
+  ]
+}

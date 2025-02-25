@@ -1,0 +1,195 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Who was the star of the TV series &quot;24&quot;?",
+      "correct_answer": "Kiefer Sutherland",
+      "incorrect_answers": [
+        "Kevin Bacon",
+        "Hugh Laurie",
+        "Rob Lowe"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Which year was the album &quot;Year of the Snitch&quot; by Death Grips released?",
+      "correct_answer": "2018",
+      "incorrect_answers": [
+        "2013",
+        "2017",
+        "2011"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In the game &quot;DELTARUNE&quot;, what is Ralsei&#039;s special ability?",
+      "correct_answer": "Pacify",
+      "incorrect_answers": [
+        "Persuade",
+        "Eliminate",
+        "Hug"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "&quot;The Genius&quot; is the original and secondary name of which Wu-Tang Clan member?",
+      "correct_answer": "GZA",
+      "incorrect_answers": [
+        "Ghostface Killah",
+        "Ol&#039; Dirty Bastard",
+        "Raekwon the Chef"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "How many manned moon landings have there been?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "1",
+        "3",
+        "7"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Who is the true moon princess in Sailor Moon?",
+      "correct_answer": "Sailor Moon",
+      "incorrect_answers": [
+        "Sailor Venus",
+        "Sailor Mars",
+        "Sailor Jupiter"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "After his loss at the Battle of Waterloo, Napoleon Bonaparte was exiled to which island?",
+      "correct_answer": "St. Helena",
+      "incorrect_answers": [
+        "Elba",
+        "Corsica",
+        "Canary"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "The 2016 Disney animated film &#039;Moana&#039; is based on which culture?",
+      "correct_answer": "Polynesian",
+      "incorrect_answers": [
+        "Native American",
+        "Japanese",
+        "Nordic"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In &quot;Highschool of the Dead&quot;, where did Komuro and Saeko establish to meet after the bus explosion?",
+      "correct_answer": "Eastern Police Station",
+      "incorrect_answers": [
+        "The Center Mall",
+        "Komuro&#039;s House",
+        "On The Main Bridge"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which country, not including Japan, has the most people of Japanese descent?",
+      "correct_answer": "Brazil",
+      "incorrect_answers": [
+        "China",
+        "South Korea",
+        "United States of America"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In Super Mario RPG: Legend of The Seven Stars, what is Geno&#039;s real name?",
+      "correct_answer": "♡♪!?",
+      "incorrect_answers": [
+        "Geno",
+        "Exor",
+        "Smithy"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "What was the character Kirby originally going to be named?",
+      "correct_answer": "Popopo",
+      "incorrect_answers": [
+        "Dedede",
+        "Waddle Dee",
+        "Prince Puff"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "How many countries share a land border with Luxembourg?",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "4",
+        "2",
+        "5"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "What country is not a part of Scandinavia?",
+      "correct_answer": "Finland",
+      "incorrect_answers": [
+        "Norway",
+        "Sweden",
+        "Denmark"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "The animated film &quot;Spirited Away&quot; won the Academy Award for Best Animated Feature at the 75th Academy Awards in 2003.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Film",
+      "question": "In Big Hero 6, what were Baymax&#039;s motions modeled after?",
+      "correct_answer": "Baby penguins",
+      "incorrect_answers": [
+        "Baby monkeys",
+        "Baby ostriches",
+        "Baby bears"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+type,difficulty,category,question,correct_answer,incorrect_answers
+multiple,easy,Entertainment: Video Games,Which Super Mario video game when they introduce Bowser Jr. for the first time?,Super Mario Sunshine,"[""Mario Party series"",""Super Mario Galaxy"",""Mario &amp; Luigi: Bowser&#039;s Inside Story + Bowser Jr.&#039;s Journey""]"
+multiple,easy,Entertainment: Music,What is the name of Finnish DJ Darude&#039;s hit single released in October 1999?,Sandstorm,"[""Dust Devil"",""Sirocco"",""Khamsin""]"
+multiple,hard,Entertainment: Music,How many members are there in the idol group &quot;&micro;&#039;s&quot;?,9,"[""48"",""6"",""3""]"
+multiple,easy,Entertainment: Film,"This movie contains the quote, &quot;Houston, we have a problem.&quot;",Apollo 13,"[""The Right Stuff"",""Capricorn One"",""Marooned""]"
+boolean,easy,Politics,There was a satirical candidate named &quot;Deez Nuts&quot; running in the 2016 US presidential elections.,True,"[""False""]"
+multiple,hard,Entertainment: Board Games,"On a standard Monopoly board, how much do you have to pay for Tennessee Ave?",$180,"[""$200"",""$160"",""$220""]"
+multiple,medium,Entertainment: Japanese Anime &amp; Manga,"How does the character Dragowizard, Qinus Axia&#039;s from the anime &quot;Buddyfight&quot; differ between the Japanese and English dubs?",Different Gender,"[""Different Body Proportions"",""Different Backstory"",""Different Appearance""]"
+boolean,easy,Entertainment: Video Games,The main character in the &quot;Half-Life&quot; franchise is named Morgan Freeman.,False,"[""True""]"
+multiple,hard,Mythology,"In Greek Mythology, who was the daughter of King Minos?",Ariadne,"[""Athena"",""Ariel"",""Alana""]"
+multiple,medium,Entertainment: Japanese Anime &amp; Manga,The character Plum from &quot;No Game No Life&quot; is of what race?,Dhampir,"[""Fl&uuml;gel"",""Imanity"",""Seiren""]"

@@ -1,0 +1,65 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "Which desert is the only desert in the world where the &quot;Saguaro&quot; cactus grows indigenously?",
+      "correct_answer": "The Sonoran Desert",
+      "incorrect_answers": [
+        "The Gobi Desert",
+        "The Yuma Desert",
+        "The Arabian Desert"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which of the following car models has been badge-engineered (rebadged) the most?",
+      "correct_answer": "Isuzu Trooper",
+      "incorrect_answers": [
+        "Holden Monaro",
+        "Suzuki Swift",
+        "Chevy Camaro"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "In Breaking Bad, the initials W.W. refer to which of the following?",
+      "correct_answer": "Walter White",
+      "incorrect_answers": [
+        "William Wolf",
+        "Willy Wonka",
+        "Wally Walrus"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the currency of Poland?",
+      "correct_answer": "Złoty",
+      "incorrect_answers": [
+        "Ruble",
+        "Euro",
+        "Krone"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "What do the 4 Rings in Audi&#039;s Logo represent?",
+      "correct_answer": "Previously independent automobile manufacturers",
+      "incorrect_answers": [
+        "States in which Audi makes the most sales",
+        "Main cities vital to Audi",
+        "Countries in which Audi makes the most sales"
+      ]
+    }
+  ]
+}

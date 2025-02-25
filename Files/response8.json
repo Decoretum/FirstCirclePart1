@@ -1,0 +1,193 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In the Mario Kart series, which game introduced the &quot;Shield Drifting&quot; mechanic?",
+      "correct_answer": "Mario Kart Arcade GP DX",
+      "incorrect_answers": [
+        "Mario Kart: Double Dash",
+        "Mario Kart Super Circuit",
+        "Mario Kart DS"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "Stanley Kubrick&#039;s &quot;Dr. Strangelove&quot; (1964) originally ended with a large pie fight in the war room.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "Which is not a type of neuron?",
+      "correct_answer": "Perceptual Neuron",
+      "incorrect_answers": [
+        "Sensory Neuron",
+        "Motor Neuron",
+        "Interneuron"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Which American family band had a 1986 top 10 hit with the song &#039;Crush On You&#039;?",
+      "correct_answer": "The Jets",
+      "incorrect_answers": [
+        "DeBarge",
+        "The Jacksons",
+        "The Cover Girls"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "Ed Koch, the Mayor of New York in 1984, played himself in which Muppets movie?",
+      "correct_answer": "The Muppets Take Manhattan",
+      "incorrect_answers": [
+        "The Great Muppet Caper",
+        "The Muppet Christmas Carol",
+        "The Muppet Movie"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "What&#039;s the name of Batman&#039;s parents?",
+      "correct_answer": "Thomas &amp; Martha",
+      "incorrect_answers": [
+        "Joey &amp; Jackie",
+        "Jason &amp; Sarah",
+        "Todd &amp; Mira"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "The Hundred Years&#039; War was fought for more than a hundred years.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?",
+      "correct_answer": "Owen Hart",
+      "incorrect_answers": [
+        "Chris Benoit",
+        "Lex Luger",
+        "Al Snow"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What colour hair does the main character of the Yu-Gi-Oh! original anime series have?",
+      "correct_answer": "Red, black and yellow",
+      "incorrect_answers": [
+        "Red, yellow and green",
+        "Red, black and green",
+        "Red, purple and blue"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "In &quot;Gravity Falls&quot;, what does Quentin Trembley do when he is driven out from the White House?",
+      "correct_answer": "Eat a salamander and jump out the window.",
+      "incorrect_answers": [
+        "Leave in peace.",
+        "Jump out the window.",
+        "Release 1,000 captive salamanders into the white house."
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+      "correct_answer": "D. G. Yuengling and Son, Inc",
+      "incorrect_answers": [
+        "Anheuser Busch",
+        "Boston Beer Company",
+        "Miller Coors"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Alan Reed is known for providing the voice of which character?",
+      "correct_answer": "Fred Flintstone",
+      "incorrect_answers": [
+        "Bugs Bunny",
+        "Fangface",
+        "G.I. Joe"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "How many strings are there on a cello?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "5",
+        "6",
+        "8"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "How many countries are inside the United Kingdom?",
+      "correct_answer": "Four",
+      "incorrect_answers": [
+        "Two",
+        "Three",
+        "One"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "What is the only country in the world with a flag that doesn&#039;t have four right angles?",
+      "correct_answer": "Nepal",
+      "incorrect_answers": [
+        "Panama",
+        "Angola",
+        "Egypt"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In Sid Meier&#039;s Civilization V, which World Wonder can only be built in cities on or next to a desert?",
+      "correct_answer": "Petra",
+      "incorrect_answers": [
+        "The Pyramids",
+        "Alhambra",
+        "Mausoleum of Maussollos"
+      ]
+    }
+  ]
+}

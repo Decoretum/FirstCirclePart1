@@ -1,0 +1,29 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "When was &quot;System Shock&quot; released?",
+      "correct_answer": "1994",
+      "incorrect_answers": [
+        "1995",
+        "2000",
+        "1998"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "In DC comics where does the Green Arrow (Oliver Queen) live?",
+      "correct_answer": "Star City",
+      "incorrect_answers": [
+        "Central City",
+        "Gotham City",
+        "Metropolis"
+      ]
+    }
+  ]
+}

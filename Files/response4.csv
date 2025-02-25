@@ -1,0 +1,11 @@
+type,difficulty,category,question,correct_answer,incorrect_answers
+multiple,hard,Science &amp; Nature,Which of the following is NOT a real element?,Vitrainium,"[""Praseodymium"",""Hassium"",""Lutetium""]"
+boolean,easy,Entertainment: Video Games,"In Pok&eacute;mon Sun and Moon, a male Salandit can evolve to a Salazzle.",False,"[""True""]"
+multiple,hard,Entertainment: Film,Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?,Plan 9 from Outer Space,"[""The Man from Planet X"",""It Came from Outer Space"",""The Day The Earth Stood Still""]"
+multiple,hard,Geography,In 2012 the German-speaking microstate &quot;Liechtenstein&quot; in Central Europe had a population of how many inhabitants?,"36,600","[""2,400"",""90,000"",""323,400""]"
+boolean,medium,Entertainment: Music,&quot;Neutral Milk Hotel&quot; is a real band.,True,"[""False""]"
+multiple,medium,Geography,Montreal is in which Canadian province?,Quebec,"[""Ontario"",""Nova Scotia"",""Alberta""]"
+multiple,medium,History,Who is attributed credit for recording the epic poem The Odyssey?,Homer,"[""Aristotle"",""Odysseus"",""Socrates""]"
+multiple,easy,Entertainment: Music,Which band recorded the album &quot;Parallel Lines&quot;?,Blondie,"[""Paramore"",""Coldplay"",""The Police""]"
+multiple,medium,General Knowledge,"In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",Horse,"[""Weave"",""Guitar"",""Boat""]"
+multiple,medium,History,"When was &quot;The Gadget&quot;, the first nuclear device to be detonated, tested?","July 16, 1945","[""June 22, 1945"",""August 6, 1945"",""April 5, 1945""]"

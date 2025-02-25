@@ -1,0 +1,65 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which of the following sports is not part of the triathlon?",
+      "correct_answer": "Horse-Riding",
+      "incorrect_answers": [
+        "Cycling",
+        "Swimming",
+        "Running"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the name of Poland in Polish?",
+      "correct_answer": "Polska",
+      "incorrect_answers": [
+        "Pupcia",
+        "Polszka",
+        "P&oacute;land"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "A doctor with a PhD is a doctor of what?",
+      "correct_answer": "Philosophy",
+      "incorrect_answers": [
+        "Psychology",
+        "Phrenology",
+        "Physical Therapy"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Who co-founded the YouTube Let&#039;s Play channel &quot;Game Grumps&quot; alongside Newgrounds animator Egoraptor?",
+      "correct_answer": "JonTron",
+      "incorrect_answers": [
+        "Pewdiepie",
+        "Tobuscus",
+        "Markiplier"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "What is the birth name of Michael Caine?",
+      "correct_answer": "Maurice Micklewhite",
+      "incorrect_answers": [
+        "Morris Coleman",
+        "Carl Myers",
+        "Martin Michaels"
+      ]
+    }
+  ]
+}

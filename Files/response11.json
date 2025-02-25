@@ -1,0 +1,193 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "The name of Junko Enoshima&#039;s imposter at the beginning of Danganronpa: Trigger Happy Havoc is?",
+      "correct_answer": "Mukuro Ikusaba",
+      "incorrect_answers": [
+        "Ryota Mitarai",
+        "Ultimate Imposter",
+        "Komaru Naegi"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Vehicles",
+      "question": "Which car tire manufacturer is famous for its &quot;Eagle&quot; brand of tires, and is the official tire supplier of NASCAR?",
+      "correct_answer": "Goodyear",
+      "incorrect_answers": [
+        "Pirelli",
+        "Bridgestone",
+        "Michelin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "What year did Skoal, a smokeless Tobacco company, release their first line of Pouches, known as &quot;Skoal Bandits&quot;?",
+      "correct_answer": "1983",
+      "incorrect_answers": [
+        "1934",
+        "1984",
+        "1822"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "The scrapped Sonic the Hedgehog 2 level &quot;Hidden Palace Zone&quot; was later reused in the iOS port of the game. ",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "How many aces can be shot down through the entirety of &quot;Ace Combat Zero: The Belkan War&quot;?",
+      "correct_answer": "169",
+      "incorrect_answers": [
+        "100",
+        "132",
+        "245"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "What was the pen name of novelist, Mary Ann Evans?",
+      "correct_answer": "George Eliot",
+      "incorrect_answers": [
+        "George Orwell",
+        "George Bernard Shaw",
+        "George Saunders"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In &quot;One Piece&quot;, who confirms the existence of the legendary treasure, One Piece?",
+      "correct_answer": "Edward &quot;Whitebeard&quot; Newgate",
+      "incorrect_answers": [
+        "Former Marine Fleet Admiral Sengoku",
+        "Pirate King Gol D Roger",
+        "Silvers Rayleigh"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "What is the default alias that Princess Garnet goes by in Final Fantasy IX?",
+      "correct_answer": "Dagger",
+      "incorrect_answers": [
+        "Dirk",
+        "Garnet",
+        "Quina"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "In the Sci-Fi television show Doctor Who, who plays the Tenth Doctor?",
+      "correct_answer": "David Tennant",
+      "incorrect_answers": [
+        "William Hartnell",
+        "Peter Capaldi",
+        "Peter Davison"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "Joseph Stalin&#039;s real name was Ioseb Bessarionis dze Dzugashvili.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Board Games",
+      "question": "The Dice Tower network of board game podcasts and videos is run by which individual?",
+      "correct_answer": "Tom Vasel",
+      "incorrect_answers": [
+        "Jason LeVine",
+        "Borth Sampson",
+        "Uncle Pennybags"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In the &quot;Ace Attorney&quot; series, what is the relationship between Apollo Justice and Trucy Wright?",
+      "correct_answer": "They&#039;re half-siblings",
+      "incorrect_answers": [
+        "They&#039;re co-workers",
+        "They&#039;re friends",
+        "They&#039;re both attorneys"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "What is the second-largest city in Lithuania?",
+      "correct_answer": "Kaunas",
+      "incorrect_answers": [
+        "Panevėžys",
+        "Vilnius",
+        "Klaipėda"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "The mobile game &quot;Jetpack Joyride&quot; was released in what year? ",
+      "correct_answer": "2011",
+      "incorrect_answers": [
+        "2012",
+        "2009",
+        "2014"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "Which of these bones is hardest to break?",
+      "correct_answer": "Femur",
+      "incorrect_answers": [
+        "Cranium",
+        "Humerus",
+        "Tibia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In &quot;The Binding of Isaac&quot;, what is the name of the final boss that you fight in The Void?",
+      "correct_answer": "Delirium",
+      "incorrect_answers": [
+        "Mega Satan",
+        "Hush",
+        "The Lamb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "What&#039;s the second book in George R. R. Martin&#039;s &#039;A Song of Ice and Fire&#039; series?",
+      "correct_answer": "A Clash of Kings",
+      "incorrect_answers": [
+        "A Dance with Dragons",
+        "A Storm of Swords",
+        "A Feast for Crows"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+      "correct_answer": "Traffic Collision Avoidance System",
+      "incorrect_answers": [
+        "Traffic Communication Alert System",
+        "Traffic Configuration Alignment System",
+        "Traffic Call-sign Abbreviation System"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Vehicles",
+      "question": "The LS7 engine is how many cubic inches?",
+      "correct_answer": "427",
+      "incorrect_answers": [
+        "346",
+        "364",
+        "376"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Pamina and Papageno are characters in what Mozart opera?",
+      "correct_answer": "The Magic Flute",
+      "incorrect_answers": [
+        "The Marriage of Figaro",
+        "The Impresario",
+        "The Goose of Cairo"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "Which artist composed the original soundtrack for &quot;Watch Dogs 2&quot;?",
+      "correct_answer": "Hudson Mohawke",
+      "incorrect_answers": [
+        "Rustie",
+        "Machinedrum",
+        "Flying Lotus"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In Xenoblade Chronicles X, which class has a sniper rifle as it&#039;s primary weapon?",
+      "correct_answer": "Partisan Eagle",
+      "incorrect_answers": [
+        "Blast Fencer",
+        "Winged Viper",
+        "Bastion Warrior"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Mythology",
+      "question": "In most traditions, who was the wife of Zeus?",
+      "correct_answer": "Hera",
+      "incorrect_answers": [
+        "Aphrodite",
+        "Athena",
+        "Hestia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+      "correct_answer": "Thomas Hobbes",
+      "incorrect_answers": [
+        "David Hobbes",
+        "John Hobbes",
+        "Nathaniel Hobbes"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "Which of these book series is by James Patterson?",
+      "correct_answer": "Maximum Ride",
+      "incorrect_answers": [
+        "Harry Potter",
+        "The Legend of Xanth",
+        "The Bartemaeus Trilogy"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Which one of these characters is NOT a playable fighter in Super Smash Bros. Ultimate?",
+      "correct_answer": "Kumatora",
+      "incorrect_answers": [
+        "King K. Rool",
+        "Incineroar",
+        "Corrin"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "The protagonist in &quot;Humanity Has Declined&quot; has no discernable name and is simply referred to as &#039;I&#039; for most of the series.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?",
+      "correct_answer": "Ming Tea",
+      "incorrect_answers": [
+        "Cough Fi",
+        "Spear Mint",
+        "Mister E"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "What is the name of the first human being in Norse mythology?",
+      "correct_answer": "Ask",
+      "incorrect_answers": [
+        "Asmund",
+        "Ake",
+        "Asger"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "What was Frank West&#039;s job in &quot;Dead Rising&quot;?",
+      "correct_answer": "Photojournalist",
+      "incorrect_answers": [
+        "Janitor",
+        "Chef",
+        "Taxi Driver"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "What year was the United States Declaration of Independence signed?",
+      "correct_answer": "1776",
+      "incorrect_answers": [
+        "1775",
+        "1774",
+        "1777"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "Which of the following Presidents of the United States was assassinated?",
+      "correct_answer": "William McKinley",
+      "incorrect_answers": [
+        "Lyndon Johnson",
+        "Chester Arthur",
+        "Franklin Roosevelt"
+      ]
+    }
+  ]
+}

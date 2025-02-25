@@ -1,0 +1,6 @@
+type,difficulty,category,question,correct_answer,incorrect_answers
+multiple,medium,Entertainment: Japanese Anime &amp; Manga,"In the anime, &quot;Super Sonico&quot;, what is Super Sonico&#039;s favorite food?",Macroons,"[""Ice Cream"",""Pizza"",""Chips""]"
+multiple,easy,Vehicles,Which car tire manufacturer is famous for its &quot;P Zero&quot; line?,Pirelli,"[""Goodyear"",""Bridgestone"",""Michelin""]"
+multiple,easy,Entertainment: Cartoon &amp; Animations,What was the name of the sea witch in the 1989 Disney film &quot;The Little Mermaid&quot;?,Ursula,"[""Madam Mim"",""Maleficent"",""Lady Tremaine""]"
+multiple,hard,Entertainment: Television,What was the name of the inflatable duck sacrified to the crowd at the end of Episode 34 of the 18th season of Big Brother?,Pablo,"[""Esteban"",""Carlos"",""Duckster""]"
+boolean,easy,Entertainment: Video Games,The game &quot;Battlefield 1&quot; takes place during World War I.,True,"[""False""]"
