@@ -1,0 +1,181 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+      "correct_answer": "The Goth Family",
+      "incorrect_answers": [
+        "The Family",
+        "The Simoleon Family",
+        "The Proud Family"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "In the animated series RWBY, what is the name of the weapon used by Weiss Schnee?",
+      "correct_answer": "Myrtenaster",
+      "incorrect_answers": [
+        "Gambol Shroud",
+        "Crescent Rose",
+        "Ember Celica"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What does the acronym CDN stand for in terms of networking?",
+      "correct_answer": "Content Delivery Network",
+      "incorrect_answers": [
+        "Content Distribution Network",
+        "Computational Data Network",
+        "Compressed Data Network"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Mathematics",
+      "question": "How many Millibars (mbar) to 1 Inch of Mercury (inHg)",
+      "correct_answer": "33.9",
+      "incorrect_answers": [
+        "30.0",
+        "27.4",
+        "10.6"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "Which of the following has Jennifer Taylor NOT voiced?",
+      "correct_answer": "Sarah Kerrigan",
+      "incorrect_answers": [
+        "Princess Peach",
+        "Zoey",
+        "Cortana"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "McCree from Overwatch originally started as a character that was going to appear in a scrapped Starcraft game.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In &quot;Call Of Duty: Zombies&quot;, which map features the &quot;Fly Trap&quot; easter egg?",
+      "correct_answer": "Der Riese",
+      "incorrect_answers": [
+        "Tranzit",
+        "Call Of The Dead",
+        "Shi No Numa"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "What was the original name of New York City?",
+      "correct_answer": "New Amsterdam",
+      "incorrect_answers": [
+        "New London",
+        "New Paris",
+        "New Rome"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In the &quot;S.T.A.L.K.E.R.&quot; series, the Freedom faction wishes to destroy the supernatural area known as  &quot;the Zone&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "Which of these stars is the largest?",
+      "correct_answer": "UY Scuti",
+      "incorrect_answers": [
+        "VY Canis Majoris",
+        "Betelgeuse",
+        "RW Cephei"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Celebrities",
+      "question": "When was Elvis Presley born?",
+      "correct_answer": "January 8, 1935",
+      "incorrect_answers": [
+        "December 13, 1931",
+        "July 18, 1940",
+        "April 17, 1938"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "Which of the following was Brazil was a former colony under?",
+      "correct_answer": "Portugal",
+      "incorrect_answers": [
+        "Spain",
+        "The Netherlands",
+        "France"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "What is the historical name of Sri Lanka?",
+      "correct_answer": "Ceylon",
+      "incorrect_answers": [
+        "Myanmar",
+        "Colombo",
+        "Badulla"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "Who was the first explorer to sail to North America?",
+      "correct_answer": "Leif Erikson",
+      "incorrect_answers": [
+        "Christopher Columbus",
+        "Amerigo Vespucci",
+        "Ferdinand Magellan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "What was the name of the sea witch in the 1989 Disney film &quot;The Little Mermaid&quot;?",
+      "correct_answer": "Ursula",
+      "incorrect_answers": [
+        "Madam Mim",
+        "Maleficent",
+        "Lady Tremaine"
+      ]
+    }
+  ]
+}

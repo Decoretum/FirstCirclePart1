@@ -77,7 +77,7 @@ function promptQuery()
         int.question('Do you want to continue ingesting data? Choices: ["Yes", "No"]\n', (answer) => {
             if (answer === 'Yes')
             {
-                int.question("Type your Parameters Again\n", (params) => {
+                int.question("Type your Parameters Again, Format = n={} f={}\n", (params) => {
                     arr = params.split(" ");
                     n = arr[0].slice(2);
                     format = arr[1].slice(2);
