@@ -6,6 +6,7 @@
 
 ## Resources
 - https://opentdb.com/api.php?amount={} wherein the `amount` represents the frequency of calling the API from this URL link.
+- Mac OS Mojave, 10.14.6
 
 ## Setup 
 1. Install NodeJS version 20.18.3
